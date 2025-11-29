@@ -1,0 +1,282 @@
+[
+    {
+        "jenis": "Strength",
+        "intensitas": "1",
+        "before": {
+            "level": 5,
+            "hp": 120
+        },
+        "after": {
+            "level": 6,
+            "hp": 125
+        },
+        "special": "Alakazam melepaskan energi psikis besar yang meningkatkan fokus dan kekuatan.",
+        "time": "2025-11-28 21:28:08"
+    },
+    {
+        "jenis": "Attack",
+        "intensitas": "2",
+        "before": {
+            "level": 5,
+            "hp": 120
+        },
+        "after": {
+            "level": 6,
+            "hp": 130
+        },
+        "special": "Alakazam melepaskan energi psikis besar yang meningkatkan fokus dan kekuatan.",
+        "time": "2025-11-28 21:40:17"
+    },
+    {
+        "jenis": "Attack",
+        "intensitas": "1",
+        "before": {
+            "level": 5,
+            "hp": 120
+        },
+        "after": {
+            "level": 6,
+            "hp": 125
+        },
+        "special": "Alakazam melepaskan energi psikis besar yang meningkatkan fokus dan kekuatan.",
+        "time": "2025-11-29 02:53:21"
+    },
+    {
+        "jenis": null,
+        "intensitas": null,
+        "before": {
+            "level": 5,
+            "hp": 120
+        },
+        "after": {
+            "level": 6,
+            "hp": 120
+        },
+        "special": "Alakazam melepaskan energi psikis besar yang meningkatkan fokus dan kekuatan.",
+        "time": "2025-11-29 02:55:46"
+    },
+    {
+        "jenis": "Attack",
+        "intensitas": "1",
+        "before": {
+            "level": 5,
+            "hp": 120
+        },
+        "after": {
+            "level": 6,
+            "hp": 125
+        },
+        "special": "Alakazam melepaskan energi psikis besar yang meningkatkan fokus dan kekuatan.",
+        "time": "2025-11-29 02:55:54"
+    },
+    {
+        "jenis": null,
+        "intensitas": null,
+        "before": {
+            "level": 5,
+            "hp": 120
+        },
+        "after": {
+            "level": 6,
+            "hp": 120
+        },
+        "special": "Alakazam melepaskan energi psikis besar yang meningkatkan fokus dan kekuatan.",
+        "time": "2025-11-29 02:57:54"
+    },
+    {
+        "jenis": "Attack",
+        "intensitas": "1",
+        "before": {
+            "level": 5,
+            "hp": 120
+        },
+        "after": {
+            "level": 6,
+            "hp": 125
+        },
+        "special": "Alakazam melepaskan energi psikis besar yang meningkatkan fokus dan kekuatan.",
+        "time": "2025-11-29 02:58:00"
+    },
+    {
+        "jenis": "Attack",
+        "intensitas": "1",
+        "before": {
+            "level": 5,
+            "hp": 120
+        },
+        "after": {
+            "level": 6,
+            "hp": 125
+        },
+        "special": "Alakazam melepaskan energi psikis besar yang meningkatkan fokus dan kekuatan.",
+        "time": "2025-11-29 03:00:36"
+    },
+    {
+        "jenis": "Attack",
+        "intensitas": "1",
+        "before": {
+            "level": 5,
+            "hp": 120
+        },
+        "after": {
+            "level": 6,
+            "hp": 125
+        },
+        "special": "Alakazam melepaskan energi psikis besar yang meningkatkan fokus dan kekuatan.",
+        "time": "2025-11-29 03:01:31"
+    },
+    {
+        "jenis": "Defense",
+        "intensitas": "1",
+        "before": {
+            "level": 5,
+            "hp": 120
+        },
+        "after": {
+            "level": 6,
+            "hp": 125
+        },
+        "special": "Alakazam melepaskan energi psikis besar yang meningkatkan fokus dan kekuatan.",
+        "time": "2025-11-29 03:02:11"
+    },
+    {
+        "jenis": "Attack",
+        "intensitas": "2",
+        "before": {
+            "level": 5,
+            "hp": 120
+        },
+        "after": {
+            "level": 6,
+            "hp": 130
+        },
+        "special": "Alakazam melepaskan energi psikis besar yang meningkatkan fokus dan kekuatan.",
+        "time": "2025-11-29 03:02:16"
+    },
+    {
+        "jenis": "Attack",
+        "intensitas": "1",
+        "before": {
+            "level": 5,
+            "hp": 120
+        },
+        "after": {
+            "level": 6,
+            "hp": 125
+        },
+        "special": "Alakazam melepaskan energi psikis besar yang meningkatkan fokus dan kekuatan.",
+        "time": "2025-11-29 03:02:57"
+    },
+    {
+        "jenis": "Attack",
+        "intensitas": "1",
+        "before": {
+            "level": 5,
+            "hp": 120
+        },
+        "after": {
+            "level": 6,
+            "hp": 125
+        },
+        "special": "Alakazam melepaskan energi psikis besar yang meningkatkan fokus dan kekuatan.",
+        "time": "2025-11-29 03:03:41"
+    },
+    {
+        "jenis": "Attack",
+        "intensitas": "1",
+        "before": {
+            "level": 5,
+            "hp": 120
+        },
+        "after": {
+            "level": 6,
+            "hp": 125
+        },
+        "special": "Alakazam melepaskan energi psikis besar yang meningkatkan fokus dan kekuatan.",
+        "time": "2025-11-29 03:05:21"
+    },
+    {
+        "jenis": "Attack",
+        "intensitas": "1",
+        "before": {
+            "level": 5,
+            "hp": 120
+        },
+        "after": {
+            "level": 6,
+            "hp": 125
+        },
+        "special": "Alakazam melepaskan energi psikis besar yang meningkatkan fokus dan kekuatan.",
+        "time": "2025-11-29 03:09:43"
+    },
+    {
+        "jenis": "Attack",
+        "intensitas": "1",
+        "before": {
+            "level": 5,
+            "hp": 120
+        },
+        "after": {
+            "level": 6,
+            "hp": 125
+        },
+        "special": "Alakazam melepaskan energi psikis besar yang meningkatkan fokus dan kekuatan.",
+        "time": "2025-11-29 03:09:47"
+    },
+    {
+        "jenis": "Attack",
+        "intensitas": "1",
+        "before": {
+            "level": 5,
+            "hp": 120
+        },
+        "after": {
+            "level": 6,
+            "hp": 125
+        },
+        "special": "Alakazam melepaskan energi psikis besar yang meningkatkan fokus dan kekuatan.",
+        "time": "2025-11-29 03:12:29"
+    },
+    {
+        "jenis": "Attack",
+        "intensitas": "1",
+        "before": {
+            "level": 5,
+            "hp": 120
+        },
+        "after": {
+            "level": 6,
+            "hp": 125
+        },
+        "special": "Alakazam melepaskan energi psikis besar yang meningkatkan fokus dan kekuatan.",
+        "time": "2025-11-29 03:13:41"
+    },
+    {
+        "jenis": "Attack",
+        "intensitas": "1",
+        "before": {
+            "level": 5,
+            "hp": 120
+        },
+        "after": {
+            "level": 6,
+            "hp": 125
+        },
+        "special": "Alakazam melepaskan energi psikis besar yang meningkatkan fokus dan kekuatan.",
+        "time": "2025-11-29 06:18:39"
+    },
+    {
+        "jenis": "Attack",
+        "intensitas": "1",
+        "before": {
+            "level": 5,
+            "hp": 120
+        },
+        "after": {
+            "level": 6,
+            "hp": 125
+        },
+        "special": "Alakazam melepaskan energi psikis besar yang meningkatkan fokus dan kekuatan.",
+        "time": "2025-11-29 06:21:13"
+    }
+]
